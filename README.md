@@ -1,2 +1,3 @@
-# angry-birds-stage-11
-Simple angry birds with menu and refresh buttons.
+# Angry birds
+
+Simple angry birds with refresh and menu buttons.
